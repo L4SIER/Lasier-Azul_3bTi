@@ -58,6 +58,18 @@ main {
   width: 50%;
   float: left;
 }
+.login button {
+  margin-top: 5vh;
+  margin-left: 10%;
+  font-size: 1.3rem;
+  width: 50%;
+  float: left;
+  background: #0096d1;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
 .foto {
   height: 100vh;
   width: 50%;

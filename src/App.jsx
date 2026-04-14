@@ -19,12 +19,13 @@ function App() {
         <input type="text" placeholder='digite o usuario' />
         <p>senha:</p>
         <input type="text" placeholder='digite a senha'/>
+        <button>fazer login</button>
         <a className='link'>esqueci meu login ou senha</a>
         </div>
       </section>
     </main>
     </>
-  )
+  ) 
 }
 
 export default App
